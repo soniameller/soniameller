@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I left my architecture projects in Buenos Aires, my hometown, and followed my desire to learn how to code. As soon as I sat through my first programming bootcamp in Portugal, I fell in love with creating code instead of condos. 
+
+I thrive when working in international environments and love getting to know new cultures. Just ask me about the time I lived in Brazil, Spain, Costa Rica or Argentina. Devoted to surfing, my relationship with the ocean is a constant reminder of the ebbs and flows of life.
+
 <!--
 **soniameller/soniameller** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
