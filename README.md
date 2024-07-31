@@ -8,7 +8,7 @@ Since then, I have thrived in dynamic startup environments, gaining extensive ex
 ___
 ## EXPERIENCE
 
-### 🎓 Full-stack & blockchain development
+### 🎓 Full-stack development
 
 _[Swirl](https://swirl.cc/) May 2024_
 
