@@ -8,9 +8,14 @@ Since then, I have thrived in dynamic startup environments, gaining extensive ex
 ___
 ## EXPERIENCE
 
+### 🩺 Full-stack development
+_Semble September 2024 – Present
+
+Building and improving a healthcare platform used by clinicians and medical practices.
+
 ### 🎓 Full-stack development
 
-_[Swirl](https://swirl.cc/) May 2024_
+_[Swirl](https://swirl.cc/) May 2024 - August 2024_
 
 Building an education platform using **Next.js** with **Typescript**, **PostgreSQL**.
 - Fixed bugs for a smooth user experience and optimal performance.
@@ -19,7 +24,7 @@ Building an education platform using **Next.js** with **Typescript**, **PostgreS
 - Utilized **SWR** for efficient data fetching and real-time synchronization.
 - Applied **Styled Components** for consistent styling.
 
-### 🎓 Full-stack & blockchain development
+### ⛓️ Full-stack & blockchain development
 
 _Exeter University Mar 2023 - Sept 2023_
 
