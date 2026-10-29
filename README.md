@@ -9,7 +9,7 @@ ___
 ## EXPERIENCE
 
 ### 🩺 Full-stack development
-_Semble September 2024 – Present
+_Semble September 2024 – Present_
 
 Building and improving a healthcare platform used by clinicians and medical practices.
 
